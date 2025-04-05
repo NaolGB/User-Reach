@@ -176,3 +176,6 @@ cython_debug/
 
 # data
 parsed_*
+
+# executables
+*.sh
